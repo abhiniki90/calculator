@@ -21,10 +21,10 @@ In this project, I have learned the following:
 6. Functional approach
 
 
-CHALLENGES
+## CHALLENGES
 
 The only challenge I faced while doing this project is to get the details in the input and compute those upon "=" click. To overcome the issue, I used an API using DOM to get the result from html page. Also, I used the eval() to compute the arithmetic logic.
 
-FUN PART
+## FUN PART
 
 Apart from the challenge which was one of the fun parts, I believe working with JavaScript was fun as well. To display the dynamic details, JS is very useful.Furthermore, I think I would need to work more on this to get familiar with JavaScript language and its tools.
