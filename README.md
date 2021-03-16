@@ -6,8 +6,8 @@ The calculator consist of two parts: the display and the keys. Furthermore, ther
 
 Here a Calculator is going to be formed with HTML code.
 
-### Calculator Title: This is the title at the top of our application, “GeeksforGeeks Calculator”.
-### Output Screen: This will be our output screen, where all text will be shown. Like the input that the user will type and the answer calculated from the user input. So, we can again break down this into two smaller pieces as shown below:
+### Calculator Title: This is the title at the top of my application.
+### Output Screen: This will be the output screen, where all text will be shown as the input that the user will type and the answer calculated from the user input. So, we can again break down this into two smaller pieces as shown below:
 #### Question Output: This will be the input given by the user.
 #### Answer Output: This will be the result calculated from user input.
 
